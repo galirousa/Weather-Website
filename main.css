@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 5;
+  display: flex;
+  background-image: url("data/sky.jpg");
+  background-size: cover;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+}
+#button {
+  border-radius: 10px;
+}
+#city{
+  border-radius: 10px;
+}
