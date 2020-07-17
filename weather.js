@@ -2,7 +2,7 @@ var sunImg;
 var cloudImg;
 var weather;
 var api = 'http://api.openweathermap.org/data/2.5/weather?q=';
-var apiKey = '&&appid=f2cc39d6d38c6da57d95d0e6a5a800da';
+var apiKey = '';
 var units='&units=metric';
 var input;
 function setup(){
